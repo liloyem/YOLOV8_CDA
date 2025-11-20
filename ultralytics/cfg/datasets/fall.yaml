@@ -1,0 +1,9 @@
+train: D:/AI/yolov8-main/data/train.txt
+val: D:/AI/yolov8-main/data/val.txt
+test: D:/AI/yolov8-main/data/test.txt
+
+# number of classes
+nc: 4
+
+# class names
+names: ['birdcaging','broken','corrosion','crack']
